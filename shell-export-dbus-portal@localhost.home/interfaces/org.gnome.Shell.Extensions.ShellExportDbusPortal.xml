@@ -1,0 +1,6 @@
+<node>
+	<interface name="org.gnome.Shell.Extensions.ShellExportDbusPortal">
+		<method name="ToggleShowApplications"></method>
+		<method name="ToggleShowActivities"></method>
+	</interface>
+</node>

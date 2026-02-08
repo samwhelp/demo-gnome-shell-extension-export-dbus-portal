@@ -1,0 +1,8 @@
+{
+	"name": "Shell Export Dbus Portal",
+	"description": "Gnome Shell Export Dbus Portal",
+	"uuid": "shell-export-dbus-portal@localhost.home",
+	"shell-version": [
+		"49"
+	]
+}

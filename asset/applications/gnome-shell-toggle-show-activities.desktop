@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Toggle Show Activities
+Comment=Open GNOME Shell activities list.
+NoDisplay=false
+Icon=start-here
+Exec=gdbus call --session --dest org.gnome.Shell --object-path /org/gnome/Shell/Extensions/ShellExportDbusPortal --method org.gnome.Shell.Extensions.ShellExportDbusPortal.ToggleShowActivities
