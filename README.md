@@ -23,7 +23,7 @@
 
 ## Discussion
 
-* [#309 - Where is the taskbar Activities button?](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15678560)
+* [#309 - Where is the taskbar Activities button?](https://github.com/Anduin2017/AnduinOS/discussions/309#discussioncomment-15731991)
 
 
 
